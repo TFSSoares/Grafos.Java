@@ -1,0 +1,4 @@
+graph thiago{
+A -- B [label= 1.0];
+B -- C [label= 1.0];
+}

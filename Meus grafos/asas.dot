@@ -1,0 +1,5 @@
+graph asas{
+A -- A;
+A -- B [label= 2.0];
+B -- B;
+}

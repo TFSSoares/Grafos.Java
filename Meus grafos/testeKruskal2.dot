@@ -1,0 +1,5 @@
+graph testeKruskal2 {
+a -- b [label= 3.0];
+b -- c [label= 2.0];
+c -- a [label= 1.0];
+}

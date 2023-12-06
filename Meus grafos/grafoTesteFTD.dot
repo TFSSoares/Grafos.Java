@@ -1,0 +1,7 @@
+digraph grafoTesteFTD{
+A -> B;
+A -> C;
+B -> D;
+E -> D;
+F -> C;
+}

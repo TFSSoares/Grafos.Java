@@ -1,0 +1,4 @@
+graph grafx{
+A;
+B -- C [label= 1.0];
+}

@@ -1,0 +1,5 @@
+digraph a3c{
+A -> B [label= 1.0];
+A -> C [label= 2.0];
+B -> C [label= 1.0];
+}

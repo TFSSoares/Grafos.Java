@@ -1,0 +1,5 @@
+graph grafo2{
+A -- A;
+A -- B [label= 5.0];
+B -- B;
+}

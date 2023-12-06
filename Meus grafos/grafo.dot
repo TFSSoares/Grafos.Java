@@ -1,0 +1,5 @@
+digraph grafo{
+A -> B [label= 2.0];
+B -> A [label= 1.0];
+B -> B [label= 3.0];
+}

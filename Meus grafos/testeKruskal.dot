@@ -1,0 +1,14 @@
+graph testeKruskal{
+a -- b [label= 1.0];
+a -- d [label= 4.0];
+b -- c [label= 2.0];
+b -- e [label= 4.0];
+b -- d [label= 6.0];
+c -- e [label= 5.0];
+c -- f [label= 6.0];
+d -- e [label= 3.0];
+d -- g [label= 4.0];
+e -- g [label= 7.0];
+e -- f [label= 8.0];
+f -- g [label= 3.0];
+}
