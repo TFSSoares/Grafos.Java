@@ -1,0 +1,17 @@
+digraph nicolas{
+A -> G;
+A -> B;
+I -> A;
+I -> G;
+H -> I;
+H -> A;
+G -> H; 
+G -> D;
+F -> G;
+E -> D;
+E -> X; 
+X -> F; 
+D -> B;
+B -> C;
+C -> D;
+}

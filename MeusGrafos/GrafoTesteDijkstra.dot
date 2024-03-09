@@ -1,0 +1,10 @@
+digraph GrafoTesteDijkstra{
+A -> B [label= 2.0];
+A -> D [label= 3.0];
+B -> E [label= 1.0];
+B -> E [label= 4.0];
+D -> E [label= 2.0];
+C -> F [label= 5.0];
+E -> F [label= 1.0];
+E -> A [label= 1.0];
+}

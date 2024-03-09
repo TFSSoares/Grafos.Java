@@ -1,11 +1,11 @@
-C:\Users\tibal\Desktop\BSI\3 Periodo\Grafos\projeto-grafos\Grafos_teste\src\main\java\Grafo.java
-C:\Users\tibal\Desktop\BSI\3 Periodo\Grafos\projeto-grafos\Grafos_teste\src\main\java\GerarImagem.java
-C:\Users\tibal\Desktop\BSI\3 Periodo\Grafos\projeto-grafos\Grafos_teste\src\main\java\GrafoNaoOrientado.java
-C:\Users\tibal\Desktop\BSI\3 Periodo\Grafos\projeto-grafos\Grafos_teste\src\main\java\Navegar.java
-C:\Users\tibal\Desktop\BSI\3 Periodo\Grafos\projeto-grafos\Grafos_teste\src\main\java\GrafoOrientado.java
-C:\Users\tibal\Desktop\BSI\3 Periodo\Grafos\projeto-grafos\Grafos_teste\src\main\java\Tela.java
-C:\Users\tibal\Desktop\BSI\3 Periodo\Grafos\projeto-grafos\Grafos_teste\src\main\java\ColecaoDeGrafos.java
-C:\Users\tibal\Desktop\BSI\3 Periodo\Grafos\projeto-grafos\Grafos_teste\src\main\java\MetodosAdicionaisGrafo.java
-C:\Users\tibal\Desktop\BSI\3 Periodo\Grafos\projeto-grafos\Grafos_teste\src\main\java\Aresta.java
-C:\Users\tibal\Desktop\BSI\3 Periodo\Grafos\projeto-grafos\Grafos_teste\src\main\java\Main.java
-C:\Users\tibal\Desktop\BSI\3 Periodo\Grafos\projeto-grafos\Grafos_teste\src\main\java\Vertice.java
+/home/soares/Desktop/BSI/projeto-grafos-thiago-s/src/main/java/principal/Navegar.java
+/home/soares/Desktop/BSI/projeto-grafos-thiago-s/src/main/java/principal/Vertice.java
+/home/soares/Desktop/BSI/projeto-grafos-thiago-s/src/main/java/principal/Aresta.java
+/home/soares/Desktop/BSI/projeto-grafos-thiago-s/src/main/java/principal/Grafo.java
+/home/soares/Desktop/BSI/projeto-grafos-thiago-s/src/main/java/principal/Main.java
+/home/soares/Desktop/BSI/projeto-grafos-thiago-s/src/main/java/principal/GrafoOrientado.java
+/home/soares/Desktop/BSI/projeto-grafos-thiago-s/src/main/java/principal/GrafoNaoOrientado.java
+/home/soares/Desktop/BSI/projeto-grafos-thiago-s/src/main/java/principal/ColecaoDeGrafos.java
+/home/soares/Desktop/BSI/projeto-grafos-thiago-s/src/main/java/principal/Principal.java
+/home/soares/Desktop/BSI/projeto-grafos-thiago-s/src/main/java/principal/Tela.java
+/home/soares/Desktop/BSI/projeto-grafos-thiago-s/src/main/java/principal/MetodosAdicionaisGrafo.java

@@ -1,0 +1,7 @@
+digraph grafoTesteFTDTopologico{
+F -> C;
+E -> D;
+A -> B;
+A -> C;
+B -> D;
+}
